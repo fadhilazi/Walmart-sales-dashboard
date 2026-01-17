@@ -1,5 +1,8 @@
 # 🛒 Walmart Sales Analysis | Power BI Dashboard
 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MS Excel](https://img.shields.io/badge/Ms_excel-0B6623?style=for-the-badge&logo=excel&logoColor=black) 
+
 ## 📌 Project Overview
 This project focuses on analyzing supermarket sales data sourced from **kaggle walmart sales dataset** and transforming it into an insighful **interactive PowerBI dashboard.** The objective is to answer big business questions and  to derive an actionable business insights to further increase business income.
 
