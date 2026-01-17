@@ -19,7 +19,7 @@ This project focuses on analyzing supermarket sales data sourced from **kaggle w
 ## 🛠 Tools & Technologies
 
 ## 📷 Dashboard Preview
-![Dashboard](Dashboard/walmart_dashboard_preview.PNG)
+
 - 📷 Dashboard preview images included in this repository
 - 📁 Power BI file available for review
 
